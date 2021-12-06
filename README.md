@@ -22,6 +22,9 @@ Undersök några av nedanstående sidor utifrån följande frågor:
 ## 1.4 Film: Https localhost
 - [Länk till film om hur du får https lokalt](https://vimeo.com/651177074/7026a5682f)
 
+## 1.5 Film: Publicera på Netlify
+[Länk till film om hur du publicerar på Netlify](https://vimeo.com/652919526/9a2fbb5871)
+
 ## Fördjupning
 - [PWA users are 2.5x more likely to purchase Gravit Designer PRO](https://web.dev/gravit-designer/)
 - [Getting started with PWA](https://developers.google.com/web/updates/2015/12/getting-started-pwa)
